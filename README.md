@@ -1,4 +1,4 @@
-![JCD Logo](JCDPort.github.io/images/JCDPortLogo.png)
+![JCD Logo](images/JCDPortLogo.png)
 
 # JCD Web Dev Portfolio
 

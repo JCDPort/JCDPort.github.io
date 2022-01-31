@@ -1,4 +1,4 @@
-![JCD Logo](./images/JCDPorLogo.png)
+![JCD Logo](images/JCDPorLogo.png)
 
 # JCD Web Dev Portfolio
 

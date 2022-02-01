@@ -8,7 +8,7 @@ This project is a portfolio site I am building as I work through training as a w
 
 - Coding Projects
 	- [Moving ball](/projects/movingBall/index.html)
-	- PacMan
+	- [PacMan](/projects/PacMan)
 
 <!-- a link to live mark down testing https://jbt.github.io/markdown-editor/
 [This is a link in mark down](https://www.jcdport.github.io)

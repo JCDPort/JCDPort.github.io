@@ -2,7 +2,7 @@
 
 # JCD Web Dev Portfolio
 
-This project is a portfolio site I am building as I work through training as a web developer.
+This project is a portfolio site I am building as I work through training as a web developer. I will update and organize the projects I engage in. As I progress I hope the complexity and utility of this site grows to highlight the experience I am gaining.
 
 ## My Portfolio
 

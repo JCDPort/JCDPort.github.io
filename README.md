@@ -7,7 +7,7 @@ This project is a portfolio site I am building as I work through training as a w
 ## My Portfolio
 
 - Coding Projects
-	- [Moving ball](/projects/movingBall/index.html)
+	- [Moving ball](https://jcdport.github.io/movingBall/)
 	- [PacMan](/projects/PacMan)
 
 <!-- a link to live mark down testing https://jbt.github.io/markdown-editor/
